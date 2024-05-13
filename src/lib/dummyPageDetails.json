@@ -1,0 +1,65 @@
+{
+    "errorCode": 0,
+    "errorMessage": "",
+    "hasError": false,
+    "data": {
+      "id": 102,
+      "title": "5 Essential Wellness Practices for 2024",
+      "slug": "wellness-practices-2024",
+      "uniqueName": "wellness-practices-2024",
+      "languageId": "en",
+      "templateId": 3,
+      "metaTitle": "Maintain Your Health with Top Wellness Practices",
+      "metaTag": "Wellness, Health, Practices",
+      "metaDesc": "Learn about the top five wellness practices to keep your mind and body healthy in 2024.",
+      "publishStartDate": "2024-05-10T14:06:11.075Z",
+      "publishEndDate": "2024-12-31T14:06:11.075Z",
+      "rank": 1,
+      "showOnMenu": true,
+      "redirectTo": "",
+      "parentId": 0,
+      "components": [
+        {
+          "id": 211,
+          "title": "Morning Yoga Routines",
+          "slug": "morning-yoga",
+          "componentType": "SingleLine",
+          "data": "Start your day with simple yoga routines that energize your body and calm your mind.",
+          "children": []
+        },
+        {
+          "id": 212,
+          "title": "Hydration and Nutrition",
+          "slug": "hydration-nutrition",
+          "componentType": "SingleLine",
+          "data": "Essential tips on staying hydrated and choosing the right nutrients for optimal health.",
+          "children": []
+        },
+        {
+          "id": 213,
+          "title": "Mindfulness Meditation",
+          "slug": "mindfulness-meditation",
+          "componentType": "SingleLine",
+          "data": "Learn how to incorporate mindfulness meditation into your daily routine to reduce stress and improve concentration.",
+          "children": []
+        },
+        {
+          "id": 214,
+          "title": "Regular Exercise",
+          "slug": "regular-exercise",
+          "componentType": "SingleLine",
+          "data": "Guidelines for maintaining a regular exercise schedule to enhance physical fitness and mental health.",
+          "children": []
+        },
+        {
+          "id": 215,
+          "title": "Sleep Hygiene",
+          "slug": "sleep-hygiene",
+          "componentType": "SingleLine",
+          "data": "Discover the best practices for improving your sleep quality each night to support overall wellness.",
+          "children": []
+        }
+      ]
+    }
+  }
+  
